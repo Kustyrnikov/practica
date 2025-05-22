@@ -170,4 +170,4 @@ while True:
         conn.close()
         break
     else:
-        print("Неверный выбор!")
+        print("Неверный выбор")
